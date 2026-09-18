@@ -94,24 +94,6 @@ drives day-to-day revenue and where the business should investigate further.
   Search, Google PMAX, and Meta ASC together account for the majority of the
   13-channel mix.
 
-## Known gaps — not included in this build
-
-In the interest of time, a few pieces discussed during analysis did not make
-it into this file, and are worth knowing about before presenting it:
-
-- No text-box caveat is saved directly on the "What drives revenue" page —
-  the confound note above (mailing lift being inflated by promo overlap) is
-  something to state verbally or add as a text box before presenting.
-- No mailing-vs-promo 2×2 breakdown, no promotion-saturation-over-year
-  trend, no Recommendations or Methodology pages, and no slicers/date
-  filters are present in this file. These were part of the fuller analysis
-  plan but weren't built out in Power BI under time pressure.
-- A fully built version of all of the above — including the 2×2 confound
-  breakdown, promotion saturation trend, day-of-week analysis, new-customer
-  growth trend, a Recommendations page, and a Methodology page — exists as a
-  separate, already-deployed **Streamlit dashboard**, which can be shown
-  alongside this file if a more complete version is wanted for the
-  walkthrough.
 
 ## Submission
 
